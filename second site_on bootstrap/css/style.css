@@ -1,0 +1,9 @@
+/* No CSS */
+div[data-rect1="white"]
+{
+    color: antiquewhite;
+}
+div[data-rect1="black"]
+{
+    color: black;
+}
